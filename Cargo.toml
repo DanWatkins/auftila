@@ -1,0 +1,10 @@
+[package]
+name = "auftila"
+version = "0.0.1"
+authors = ["Dan Watkins <dwatkins@valpineware.com>"]
+
+[dependencies]
+vulkano = "0.6.0"
+vulkano-shader-derive = "0.6.0"
+vulkano-win = "0.6.0"
+winit = "0.7.5"
